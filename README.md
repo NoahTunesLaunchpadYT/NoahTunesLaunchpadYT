@@ -5,7 +5,7 @@ I am a Mechatronics Engineering student 👨‍🎓 from 🇦🇺 with a passion
 
 ## My projects! 
 ### Narwhal Tutoring Web Application
-Check out the website at[Narwhal Tutoring](https://narwhaltutoring.com)
+Check out the website at: [Narwhal Tutoring](https://narwhaltutoring.com)
 
 ### Automatically Sorting Rubbish Bin (Public)
 ### Grocery Store Inventory Taking Robot (Public)
