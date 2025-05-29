@@ -5,21 +5,12 @@ I am a Mechatronics Engineering student 👨‍🎓 from 🇦🇺 with a passion
 
 ## My projects! 
 ### Narwhal Tutoring Web Application
-
-### 🧠 Maze Solver Robot · [🔗 Repo](https://github.com/yourusername/MyMazeSolverBot)
-
-![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.10-green.svg)
-![License](https://img.shields.io/github/license/yourusername/MyMazeSolverBot)
-
-A custom TurtleBot3 robot that autonomously explores and maps mazes using LIDAR and SLAM.
-
-![Demo](https://github.com/yourusername/MyMazeSolverBot/blob/main/docs/demo.gif)
-
-
+Check out the website at[Narwhal Tutoring](https://narwhaltutoring.com)
 
 ### Automatically Sorting Rubbish Bin (Public)
 ### Grocery Store Inventory Taking Robot (Public)
+![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-green.svg)
 ### Wombat Mound Detector (Public)
 ### Ping Pong Ball Serving Machine (Public)
 ### Fault Tolerant Block Chain Network (Public)
