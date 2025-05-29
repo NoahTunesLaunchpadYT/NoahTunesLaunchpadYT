@@ -5,8 +5,16 @@ I am a Mechatronics Engineering student 👨‍🎓 from 🇦🇺 with a passion
 
 ## My projects! 
 ### Narwhal Tutoring Web Application
-Due to security, the Narwhal Tutoring website's code is private.
-A showcase version has been made to present specific features of the website.
+
+### 🧠 Maze Solver Robot · [🔗 Repo](https://github.com/yourusername/MyMazeSolverBot)
+
+![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-green.svg)
+![License](https://img.shields.io/github/license/yourusername/MyMazeSolverBot)
+
+A custom TurtleBot3 robot that autonomously explores and maps mazes using LIDAR and SLAM.
+
+![Demo](https://github.com/yourusername/MyMazeSolverBot/blob/main/docs/demo.gif)
 
 
 
