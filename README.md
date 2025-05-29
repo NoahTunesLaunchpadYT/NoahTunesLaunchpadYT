@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Noah!
+I am a Mechatronics Engineering student 👨‍🎓 from 🇦🇺 with a passion for robotics 🤖 and space 🚀.  
 
-<!--
-**NoahTunesLaunchpadYT/NoahTunesLaunchpadYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahTunesLaunchpadYT)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## My projects! 
+### Narwhal Tutoring Web Application
+Due to security, the Narwhal Tutoring website's code is private.
+A showcase version has been made to present specific features of the website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Automatically Sorting Rubbish Bin (Public)
+### Grocery Store Inventory Taking Robot (Public)
+### Wombat Mound Detector (Public)
+### Ping Pong Ball Serving Machine (Public)
+### Fault Tolerant Block Chain Network (Public)
+### Asteroid Detection Software (Private)
